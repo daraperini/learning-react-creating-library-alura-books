@@ -1,3 +1,16 @@
+# v0.2.5 (Wed Jul 31 2024)
+
+#### ⚠️ Pushed to `main`
+
+- updating README ([@daraperini](https://github.com/daraperini))
+- Merge branch 'main' of https://github.com/daraperini/learning-react-typescript-creating-library-alurabooks ([@daraperini](https://github.com/daraperini))
+
+#### Authors: 1
+
+- Dara Lahm Perini ([@daraperini](https://github.com/daraperini))
+
+---
+
 # v0.2.4 (Wed Jul 31 2024)
 
 #### ⚠️ Pushed to `main`
